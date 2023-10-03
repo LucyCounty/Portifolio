@@ -1,0 +1,60 @@
+/*Tudo*/
+body{
+    background: rgba(44, 143, 161, 0.719);
+}
+
+.Quase_Tudo {
+    width: 1300px;
+    margin: auto;
+}
+
+.conteudo {
+    display: table;
+}
+
+/*Formatação de textos.*/
+.Quem_Sou_Eu {
+    color: rgba(42, 62, 177, 0.966);
+    text-align: center;
+}
+
+.Explicação{
+    display: table-cell;
+    float: left;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 260px;
+    color: rgba(42, 62, 177, 0.966);
+}
+
+.Idioma{
+    text-align: center;
+    text-align: right;
+}
+
+.Contato{
+    color: rgba(42, 62, 177, 0.966);
+    text-align: center;
+}
+
+/*Formatação de imagens.*/
+.Formatura{
+    display: table-cell;
+    float: left;
+    width: 400px;
+    margin-left: 100px;
+}
+
+.Whatsapp{
+    display: table-cell;
+    float: left;
+    width: 100px;
+    margin-left: 245px;
+}
+
+.Instagram{
+    display: table-cell;
+    float: right;
+    width: 100px;
+    margin-right: 245px;
+}
